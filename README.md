@@ -72,4 +72,4 @@ https://username.github.io/slip-gaji/
 ---
 
 Selamat mencoba! 🚀
-Created By : **FERDY BRAWIJAYA**
+Created By : **SULARSITO**
